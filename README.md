@@ -1,1 +1,1 @@
-# mechanic-directory
+index.html
